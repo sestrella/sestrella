@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [nixpkgs-terraform](https://github.com/stackbuilders/nixpkgs-terraform)
 
-- 🌱 I’m currently learning **HTMX**
+- 🌱 I’m currently learning [HTMX](https://htmx.org)
 
 - 👯 I’m looking to collaborate on [devenv](https://github.com/cachix/devenv)
 
